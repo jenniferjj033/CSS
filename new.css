@@ -1,0 +1,51 @@
+h6{
+			font-family: "Times New Roman",sans-serif;
+		}
+		span {
+			color: black;
+		}
+		.extra span{
+			color:inherit;
+		}
+	p{
+		border: 1px solid black;
+		background-color:orange;
+		padding-top:5%;
+		padding-right: 5%;
+		padding-bottom:5%;
+		padding-left: 5%;
+	}
+	h3{
+		background-color:lightblue;}
+		@media screen and (min-width: 720px){
+			h3{
+				background-color:lightgreen;
+			}
+		}
+	
+	h5{
+		border:1px solid black;
+		background-color:lightyellow;
+		margin-top:5%;
+		margin-right: auto;
+		margin-bottom:5%;
+		margin-left: auto;
+	}
+	.navbar{
+	list-style:none;
+	padding:0;
+	width: 30%;
+	background-color: lightblue;
+}
+.navbar li{
+	padding:14px 20px;
+	text-align: center;
+}
+.navbar li:hover{
+	background-color: #ddd;}
+h4{
+	color:white;
+	text-decoration: none;
+}
+
+
